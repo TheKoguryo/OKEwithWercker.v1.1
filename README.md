@@ -15,7 +15,7 @@ Microservice를 개발 후 Container 기반으로 배포하여 개발/테스트/
 ### Lab 100 - Microservice를 개발
 서비스를 개발하여 소스관리툴에 반영하는 것을 가정하여 여기서는 이미 개발된 소스를 각자의 GitHub 계정으로 복제합니다.
 
-  - [Lab 100으로](../100)
+  - [Lab 100으로](100.md)
 
 
 ### Lab 200 - Wercker를 통한 빌드 자동화 - Image 생성 및 OCI Registry에 Image 등록
