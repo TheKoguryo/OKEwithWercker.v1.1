@@ -7,8 +7,8 @@ Microservice를 개발 후 Container 기반으로 배포하여 개발/테스트/
 
 실습을 위해서는 아래 계정이 필요합니다. 계정이 없으신 경우 아래 링크를 이용해 계정을 생성합니다.
 
-  - [GitHub account](https://github.com/join)
-  - [Wercker account](https://app.wercker.com)
+  - [GitHub 계정](https://github.com/join)
+  - [Wercker 계정](https://app.wercker.com)
   - [Oracle Cloud Trial](https://cloud.oracle.com)
 
 
