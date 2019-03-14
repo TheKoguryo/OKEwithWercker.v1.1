@@ -26,11 +26,18 @@ Microservice를 개발 후 Container 기반으로 배포하여 개발/테스트/
   - [Lab 200으로](Lab200.md)
 
 
-## Lab 300 - Wercker를 통한 배포 자동화
+## Lab 300 - Kubernetes 환경 설정
+사용할 Kubernetes를 OCI 환경의 Kubernetes 클러스터를 구성하고 클라이언트에서 kubectl로 작업하기 위해서는 환경 설정 작업이 필요합니다. 이 부분에 대해서 실습합니다.<br>
+**실습 편의성을 위해 이미 환경을 구성해 놓았지만, 직접 해보기를 원하시는 분은 따라해 보시기 바랍니다.**
+
+  - 옵션 #1. 직접 해보기 [Lab 300으로](Lab300.md)
+  - 옵션 #2. 구성된 환경 사용 & 로컬 kubectl 환경만 구성하기 [Lab 300으로](Lab300.md)
+
+
+## Lab 400 - Wercker를 통한 배포 자동화
 소스 변경으로 인해 Git에 Commit이 발생하면 빌드이후 배포되는 과정으로 Registry에 등록된 Image를 Kuberneted(OKE)에 배포하는 것 까지 실습합니다.
 
-  - [Lab 300으로](Lab300.md)
-
+  - [Lab 400으로](Lab400.md)
 
 # 참고 
   - [Container Native Development with OKE Workshop](https://oracle.github.io/learning-library/workshops/container-native-development-with-oke/?page=README.md)
