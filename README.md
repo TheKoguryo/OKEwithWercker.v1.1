@@ -9,8 +9,10 @@ Microservice를 개발 후 Container 기반으로 배포하여 개발/테스트/
 
   - [GitHub 계정](https://github.com/join)
   - [Wercker 계정](https://app.wercker.com)
+      * GitHub 계정으로 만들면 됩니다.
   - [Oracle Cloud Trial](https://cloud.oracle.com)
-
+      * 강사에게 이메일을 알려주고 등록하면 다음 URL에서 실습용 Oracle Cloud 접속 정보를 확인할 수 있습니다.<br>
+      http://129.213.20.158:7001/CloudAccount/account-info.jsp 
 
 # 실습내용
 
